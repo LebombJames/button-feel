@@ -1,9 +1,9 @@
 {
   "title": "Button Feel",
   "description": "Gives buttons and links an extra bit of feedback when clicked.",
-  "manifest": "https://raw.githubusercontent.com/LebombJames/combat-tracker-disposition/v1.3.1/module.json",
-  "download": "https://github.com/LebombJames/combat-tracker-disposition/archive/v1.3.1.zip",
-  "url": "https://github.com/LebombJames/combat-tracker-disposition",
+  "manifest": "https://raw.githubusercontent.com/LebombJames/button-feel/v1.0.0/module.json",
+  "download": "https://github.com/LebombJames/button-feel/archive/v1.0.0.zip",
+  "url": "https://github.com/LebombJames/button-feel",
   "authors": [
     {
       "name": "LebombJames"
