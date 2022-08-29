@@ -16,6 +16,11 @@
     "button-feel.css"
   ],
   "id": "button-feel",
+  "flags": {
+    "fvttdevleague": {
+      "package-jam": 2022
+    }
+  },
   "compatibility": {
     "minimum": "10",
     "verified": "10.279"
