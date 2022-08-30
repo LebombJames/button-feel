@@ -1,5 +1,7 @@
 {
   "title": "Button Feel",
+  "id": "button-feel",
+  "name": "button-feel",
   "description": "Gives buttons and links an extra bit of feedback when clicked.",
   "manifest": "https://raw.githubusercontent.com/LebombJames/button-feel/v1.0.0/module.json",
   "download": "https://github.com/LebombJames/button-feel/archive/v1.0.0.zip",
@@ -15,7 +17,6 @@
   "styles": [
     "button-feel.css"
   ],
-  "id": "button-feel",
   "flags": {
     "fvttdevleague": {
       "package-jam": 2022
@@ -24,5 +25,6 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10.279"
-  }
+  },
+  "minimumCoreVersion": 9
 }
