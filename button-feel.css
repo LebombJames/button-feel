@@ -1,3 +1,7 @@
 button:active, a:active {
   filter: brightness(0.7);
 }
+
+.tab#chat {
+  margin: -5px 0px 0;
+}
