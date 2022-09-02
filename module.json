@@ -23,7 +23,7 @@
     }
   },
   "compatibility": {
-    "minimum": "10",
+    "minimum": "9",
     "verified": "10.279"
   },
   "minimumCoreVersion": 9
