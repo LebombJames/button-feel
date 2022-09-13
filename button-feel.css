@@ -1,4 +1,5 @@
-button:active, a:active {
+button:active:not(.pm-dropdown),
+a:active {
   filter: brightness(0.7);
 }
 
