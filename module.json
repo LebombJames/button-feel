@@ -3,15 +3,15 @@
   "id": "button-feel",
   "name": "button-feel",
   "description": "Gives buttons and links an extra bit of feedback when clicked, plus a few other pedantic CSS tweaks.",
-  "manifest": "https://raw.githubusercontent.com/LebombJames/button-feel/v1.1.1/module.json",
-  "download": "https://github.com/LebombJames/button-feel/archive/v1.1.1.zip",
+  "manifest": "https://raw.githubusercontent.com/LebombJames/button-feel/main/module.json",
+  "download": "https://github.com/LebombJames/button-feel/archive/v1.1.2.zip",
   "url": "https://github.com/LebombJames/button-feel",
   "authors": [
     {
       "name": "LebombJames"
     }
   ],
-  "version": "v1.1.1",
+  "version": "v1.1.2",
   "esmodules": [
   ],
   "styles": [
@@ -24,7 +24,7 @@
   },
   "compatibility": {
     "minimum": "9",
-    "verified": "10.285"
+    "verified": "10.291"
   },
   "minimumCoreVersion": 9
 }
